@@ -2,10 +2,10 @@
   <img src="https://content.ad.nexus/website/images/analytics-logo.png" alt="Analytics Logo" width="100">
 </p>
 
-<h1 align="center">Analytics</h1>
+<h1 align="center">Adnexus Analytics</h1>
 
 <p align="center">
-  <i>Analytics is a simple, fast, privacy-focused alternative to Google Analytics.</i>
+  <i>Adnexus Analytics is a simple, fast, privacy-focused analytics solution for DSP + SSPs.</i>
 </p>
 
 <p align="center">
