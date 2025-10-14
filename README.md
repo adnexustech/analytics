@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://content.ad.nexus/website/images/analytics-logo.png" alt="Analytics Logo" width="100">
-</p>
-
 <h1 align="center">Adnexus Analytics</h1>
 
 <p align="center">
